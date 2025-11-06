@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is namsete react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushbaroliya/ReactJs.git"
+  },
+  "keywords": [
+    "reactAyush"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayushbaroliya/ReactJs/issues"
+  },
+  "homepage": "https://github.com/Ayushbaroliya/ReactJs#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
